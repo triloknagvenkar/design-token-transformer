@@ -3,15 +3,17 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Fri, 14 Apr 2023 06:59:09 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const TypographyBodyH3FontWeight;
-extern float const TypographyBodyH4StrikeThroughFontWeight;
-extern float const TypographyBodyItalicFontWeight;
-extern float const TypographyBodyExtraBoldCondensedItalicFontWeight;
-extern float const TypographyBodyMediumExtendedItalicFontWeight;
-extern float const TypographyBodySuperFontWeight;
+extern float const TypographyHeadingLFontWeight;
+extern float const TypographyHeadingMFontWeight;
+extern float const TypographyHeadingSFontWeight;
+extern float const TypographyHeadingXsFontWeight;
+extern float const TypographyBodyLFontWeight;
+extern float const TypographyBodyMFontWeight;
+extern float const TypographyBodySFontWeight;
+extern float const TypographyMicrocopyFontWeight;
